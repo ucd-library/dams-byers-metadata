@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1109297",
+    "http://schema.org/name": "Scrapbooks"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1136041",
+    "http://schema.org/name": "Students"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205542",
+    "http://schema.org/name": "California--Sacramento"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1726784",
+    "http://schema.org/name": "Albums (Books)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1789807",
+    "http://schema.org/name": "Picnic Day"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California, Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/923329",
+    "http://schema.org/name": "Festivals"
+  }
+]
